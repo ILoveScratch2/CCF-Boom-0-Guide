@@ -25,9 +25,11 @@
 ```markdown
 [![CCF Score: 0](https://img.shields.io/static/v1?label=CCF Score &message=0&color=7B5804)](https://github.com/ILoveScratch2/CCF-Boom-0-Guide)
 ```
+[![CCF Score: 0](https://img.shields.io/static/v1?label=CCF Score &message=0&color=7B5804)](https://github.com/ILoveScratch2/CCF-Boom-0-Guide)
 ```markdown
 [![CCF Boom 0 Authorized](https://img.shields.io/static/v1?label=CCF &message=0.00&color=7B5804)](https://github.com/ILoveScratch2/CCF-Boom-0-Guide)
 ```
 ```markdown
 [![CCF Boom 0](https://img.shields.io/static/v1?label=CCF &message=BOOM 0&color=7B5804)](https://github.com/ILoveScratch2/CCF-Boom-0-Guide)
 ```
+[![CCF Boom 0](https://img.shields.io/static/v1?label=CCF &message=BOOM 0&color=7B5804)](https://github.com/ILoveScratch2/CCF-Boom-0-Guide)
